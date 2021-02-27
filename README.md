@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Anum Hassan Repo - Global-AI-Hub
 ![](img/logo.png)
 
 **Course Date:** 01.03.2021  
