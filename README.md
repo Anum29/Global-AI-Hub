@@ -1,16 +1,23 @@
-# Global-AI-Hub
-WHERE AI TALENT MEETS OPPORTUNITIES
+# GAIH Student Repo Example
+![](img/logo.png)
 
-Course Date: 01.03.2021
+**Course Date:** 01.03.2021  
+**Name:** Anum   
+**Surname:** Hassan  
+**Email:** anum.hassan.29@gmail.com  
 
-Name: Anum
+**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
-Surname: Hassan
-
-Email: anum.hassan.29@gmail.com
-
-
-Note: Your homeworks can be formats like ".ipynb" and ".py". Not ".txt" files!! Make sure that your codes works.
-
-Project Name: Global AI Hub
+## Project Name
 Description of your project.
+
+## Requirements
+```
+Some python libraries
+Some python libraries
+Some python libraries
+```
+---
+
+### Certification
+![](img/certificate_ex.png)
